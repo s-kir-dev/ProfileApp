@@ -28,3 +28,16 @@ func loadImage() -> UIImage {
     }
     return UIImage(systemName: "person.crop.circle")!
 }
+
+
+extension String {
+    func localized() -> String {
+        NSLocalizedString(
+            self,
+            tableName: "Localizable",
+            bundle: .main,
+            value: self,
+            comment: self
+        )
+    }
+}

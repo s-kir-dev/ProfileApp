@@ -1,0 +1,72 @@
+
+/* Class = "UIButton"; configuration.title = "Sign up"; ObjectID = "3L0-Qe-v1Z"; */
+"3L0-Qe-v1Z.configuration.title" = "Зарегистрироваться";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3L0-Qe-v1Z"; */
+"3L0-Qe-v1Z.normalTitle" = "Button";
+
+/* Class = "UISegmentedControl"; 4Ds-FO-BGV.segmentTitles[0] = "First"; ObjectID = "4Ds-FO-BGV"; */
+"4Ds-FO-BGV.segmentTitles[0]" = "Первый";
+
+/* Class = "UISegmentedControl"; 4Ds-FO-BGV.segmentTitles[1] = "Second"; ObjectID = "4Ds-FO-BGV"; */
+"4Ds-FO-BGV.segmentTitles[1]" = "Второй";
+
+/* Class = "UISegmentedControl"; 4Ds-FO-BGV.segmentTitles[2] = "Third"; ObjectID = "4Ds-FO-BGV"; */
+"4Ds-FO-BGV.segmentTitles[2]" = "Третий";
+
+/* Class = "UISegmentedControl"; 4Ds-FO-BGV.segmentTitles[3] = "Fourth"; ObjectID = "4Ds-FO-BGV"; */
+"4Ds-FO-BGV.segmentTitles[3]" = "Четвертый";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "8eb-cs-CJ8"; */
+"8eb-cs-CJ8.text" = "имя";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "91X-5x-Bz8"; */
+"91X-5x-Bz8.placeholder" = "пароль";
+
+/* Class = "UIButton"; configuration.title = "Sign out"; ObjectID = "E5W-Y1-ryr"; */
+"E5W-Y1-ryr.configuration.title" = "Выйти";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "E5W-Y1-ryr"; */
+"E5W-Y1-ryr.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "email"; ObjectID = "F3V-zn-gSH"; */
+"F3V-zn-gSH.placeholder" = "эл. почта";
+
+/* Class = "UINavigationItem"; title = "Main Screen"; ObjectID = "G4F-JL-n3N"; */
+"G4F-JL-n3N.title" = "Основной экран";
+
+/* Class = "UIButton"; configuration.title = "Save changes"; ObjectID = "HGT-J3-QOO"; */
+"HGT-J3-QOO.configuration.title" = "Сохранить изменения";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HGT-J3-QOO"; */
+"HGT-J3-QOO.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Sign in"; ObjectID = "HJT-Ia-3Ox"; */
+"HJT-Ia-3Ox.configuration.title" = "Войти";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HJT-Ia-3Ox"; */
+"HJT-Ia-3Ox.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "WDI-ym-Ye0"; */
+"WDI-ym-Ye0.title" = "Профиль";
+
+/* Class = "UILabel"; text = "Something is written here in English"; ObjectID = "Y1X-Pp-p8w"; */
+"Y1X-Pp-p8w.text" = "Что-то написано тут на английском";
+
+/* Class = "UILabel"; text = "e-mail"; ObjectID = "m7M-ee-IMf"; */
+"m7M-ee-IMf.text" = "эл. почта";
+
+/* Class = "UITextField"; placeholder = "E-Mail"; ObjectID = "nYh-PJ-Zi8"; */
+"nYh-PJ-Zi8.placeholder" = "Эл. Почта";
+
+/* Class = "UIButton"; configuration.title = "Sign In"; ObjectID = "rFX-Vw-cJc"; */
+"rFX-Vw-cJc.configuration.title" = "Войти";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rFX-Vw-cJc"; */
+"rFX-Vw-cJc.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uz5-7A-nF8"; */
+"uz5-7A-nF8.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "voB-cY-Z1z"; */
+"voB-cY-Z1z.normalTitle" = "Button";

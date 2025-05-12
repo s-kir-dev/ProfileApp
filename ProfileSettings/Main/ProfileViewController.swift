@@ -32,7 +32,7 @@ class ProfileViewController: UIViewController {
         imageView.image = loadImage()
         if let user = Auth.auth().currentUser {
             db.child("users").child("user-\(user.uid)").observeSingleEvent(of: .value, with: { snaphot in
-                if let child = snaphot.value as? [String: Any], let email = child["email"] as? String, let password = child["password"] as? String{
+                if let child = snaphot.value as? [String: Any], let email = child["email"] as? String, let password = child["password"] as? String {
                     self.nameLabel.text = password
                     self.emailLabel.text = email
                 }

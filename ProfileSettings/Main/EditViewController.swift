@@ -15,6 +15,7 @@ class EditViewController: UIViewController {
     @IBOutlet weak var saveChangesButton: UIButton!
     @IBOutlet weak var changeImageButton: UIButton!
     @IBOutlet weak var signOutButton: UIButton!
+    @IBOutlet weak var label: UILabel!
     
     let imagePicker = UIImagePickerController()
     
@@ -38,6 +39,8 @@ class EditViewController: UIViewController {
         saveChangesButton.addTarget(self, action: #selector(saveChangesButtonTapped), for: .touchUpInside)
         changeImageButton.addTarget(self, action: #selector(changeImageButtonTapped), for: .touchUpInside)
         signOutButton.addTarget(self, action: #selector(signOutButtonTapped), for: .touchUpInside)
+        
+        label.text = "Kirill".localized()
     }
     
     @objc func saveChangesButtonTapped() {
