@@ -30,6 +30,7 @@ func loadImage() -> UIImage {
 }
 
 
+
 extension String {
     func localized() -> String {
         NSLocalizedString(
